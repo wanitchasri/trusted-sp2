@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6c7fc9266c03e0345b2e7cfa25473115
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - The crots bonus
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 382a565153ad7564b9a23cec48c1cc6d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

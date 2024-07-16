@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6fdfedb8a9026554ba4e5ae8065cd336
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - The crots blood
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8b91cf0d6ae095a4bb2ecd18878a7cee, type: 3}
+  - {fileID: 12800000, guid: 4b9aa934b29863d4fa2334ce39676cdb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

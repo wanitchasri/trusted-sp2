@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2aa6fcb436b133240ad445e3352a6d34
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - The crots
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: def2aecbc3106c94183ba5ad1670b1c9, type: 3}
+  - {fileID: 12800000, guid: 44fe0f4a9ee04c54a809bb9b7198a698, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

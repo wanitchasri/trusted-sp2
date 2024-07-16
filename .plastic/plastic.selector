@@ -1,0 +1,4 @@
+repository "Wherewolves@SENKOJI@cloud"
+  path "/"
+    br "/main"
+    co "/main"

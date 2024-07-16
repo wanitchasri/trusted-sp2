@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TrustedGame/Scenes/LaucherScenes/LobbyScene.unity
+    guid: e71be4fd588239f4cb97c19c3dccabb0
+  - enabled: 1
+    path: Assets/TrustedGame/Scenes/GameScenes/TrustedGameScene.unity
+    guid: 61383d3a48740d74dbdddab0ae690df0
+  - enabled: 0
+    path: Assets/TrustedGame/Scenes/TestingArea/VoteTest/Room for 1.unity
+    guid: d837b6dcae2657749869485ba554aab8
+  - enabled: 0
+    path: Assets/Test/TestRobots/Scenes/Lobby.unity
+    guid: 9143cef1ec3ad6b4383b34f005ccbe22
+  - enabled: 0
+    path: Assets/Test/TestRobots/Scenes/Room for 1.unity
+    guid: 072b8937b12dd7941a7c2fd967d987b5
+  - enabled: 0
+    path: Assets/Test/TestRobots/Scenes/Room for 2.unity
+    guid: c41bb806d9f453f40967c96d45e01475
+  - enabled: 0
+    path: Assets/Test/TestRobots/Scenes/Room for 3.unity
+    guid: 88a3032da55db754eb07835ffb7edbdc
+  - enabled: 0
+    path: Assets/Test/TestRobots/Scenes/Room for 4.unity
+    guid: ac14cb7bd2c4ae440a66a8cd092ce6bf
+  - enabled: 0
+    path: Assets/Test/TestingArea/VoteTest/Room for 1.unity
+    guid: 7615ea555af03a9499af851d367cc76f
+  - enabled: 0
+    path: Assets/Test/TestingArea/VoteTest/Room for 2.unity
+    guid: cd54b8de11783e4418b3f43c46d4d718
+  - enabled: 0
+    path: Assets/Test/TestAsteroids/Scenes/KenDemoAsteroids-LobbyScene.unity
+    guid: 4a4467ec84c83094db327a7771eea9cb
+  - enabled: 0
+    path: Assets/Test/TestAsteroids/Scenes/KenDemoAsteroids-GameScene.unity
+    guid: 8e503a14b4d4348448b2c8d026ccd484
+  - enabled: 0
+    path: Assets/Test/TestRobots/RealSceneForTrusted/Lobby.unity
+    guid: 3b4b2e792209b614f8567d81664f371b
+  - enabled: 0
+    path: Assets/Test/TestRobots/RealSceneForTrusted/Trusted.unity
+    guid: 590cd805f06769243b08bff692fc9f9f
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 28f8ca261cdf58b42b38e19a152dcd7e, type: 2}
